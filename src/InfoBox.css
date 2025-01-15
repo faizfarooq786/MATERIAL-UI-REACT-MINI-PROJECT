@@ -1,0 +1,18 @@
+body{
+    background-color: #707475;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size:large;
+}
+.InfoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: black;
+}
